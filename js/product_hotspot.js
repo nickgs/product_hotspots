@@ -13,9 +13,9 @@ $(function() {
 	
 	//build data structure to store coordinates and content. 
 	var product_hotspots = new Array();
-	product_hotspots[0] = {x: 200, y:200, content: "This is test content"}
-	product_hotspots[1] = {x: 500, y:500, content: "This is more test content"}
-	product_hotspots[2] = {x: 400, y:400, content: "This is even more test content"}
+	product_hotspots[0] = {x: 110, y:200, content: "This is the tubing"}
+	product_hotspots[1] = {x: 730, y:450, content: "These are the eartips."}
+	product_hotspots[2] = {x: 400, y:400, content: "This is the chestpiece"}
 	
 	var  hotspotFadeTimer = 1500; 		//Value reflects how fast the hotspots fade in;
 	var  contentFadeTimerIn = 500; 		//Value reflects how fast the content fades in;
