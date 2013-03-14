@@ -3,12 +3,15 @@
 }
 
 #rollover_content {
-	-moz-box-shadow: 3px 3px 5px rgba(0,0,0,0.45);
-	-webkit-box-shadow: 3px 3px 5px rgba(0,0,0,0.45);
-	box-shadow: 3px 3px 5px rgba(0,0,0,0.45);
 	background-color: #e5e5e5;
 	color: #555;
 	padding: 10px;
 	margin: 50px; 
 	display: none;
+	float: left;
+	width: 400px;
+}
+
+#product_image {
+	float: left;
 }
