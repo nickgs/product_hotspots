@@ -1,3 +1,1 @@
-Product Hotspot 
--------------------------
-A lightweight system to highlight your products attributes.
+Playing around with jquery and creating data driven product rollovers. 
